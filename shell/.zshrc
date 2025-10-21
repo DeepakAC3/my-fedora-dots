@@ -54,3 +54,5 @@ export PATH=$PATH:/home/deepak/.cargo/bin
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 # [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+# export QT_QPA_PLATFORM=xcb
+export VCPKG_ROOT="$HOME/vcpkg"

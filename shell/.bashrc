@@ -25,3 +25,4 @@ fi
 unset rc
 
 export PATH=$PATH:/home/deepak/.cargo/bin
+# export QT_QPA_PLATFORM=xcb
